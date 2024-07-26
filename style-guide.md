@@ -37,3 +37,26 @@ The designs were created to the following widths:
 - Weights: 700
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
+
+<div class="img">
+  <img src="images/image-product-mobile.jpg" alt="">
+</div>
+
+<div class="container">
+  <div class="titulo">
+    <p class="titulo-principal">Perfume</p>
+    <h3 class="titulo-secundario">Gabrielle Essence
+      Eau De Parfum</h3>
+      <p class="titulo-paragrafo">
+        A floral, solar and voluptuous interpretation composed by Olivier Polge,
+        Perfumer-Creator for the House of CHANEL.
+      </p>
+    </p>
+  </div>
+  <div class="preco">
+    <p class="premeiro-preco">$149.99</p>
+    <p class="segundo-preco">$169.99</p>
+  </div>
+  <a class="botao" href="">Add to Cart</a>
+</div>
