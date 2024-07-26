@@ -91,3 +91,18 @@ img {
 .botao:hover {
     background-color: hsl(158, 41%, 18%);
 }
+
+@media  screen and (min-width: 360px) {
+    
+
+    .container {
+        display: flex;
+        width: 80vw;
+        height: 100vw;
+    }
+
+    img {
+        height: 720px;
+    }
+    
+}
